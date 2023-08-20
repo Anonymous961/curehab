@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.profile-bg{
+    background: url("https://i.postimg.cc/52vVY63J/image-9.png");
+    width: 100%;
+    height: 1200px;
+    padding: 2rem;
+    font-family: 'Raleway';
+}
+
+.profile-full{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 40px;
+    opacity: 90%;
+}
+
+.first-half{
+    position: absolute;
+    width: 1440px;
+    height: 509px;
+    /* left: 0px;
+    top: 3px; */
+    background: #FFB3B2;
+}
+
+.profile-pic{
+    position: absolute;
+    width: 209px;
+    height: 215px;
+    left: 609px;
+    top: 76px;
+    background: #2E376B;
+}
+
+.profile-name{
+    position: absolute;
+    width: 439px;
+    height: 83px;
+    left: 506px;
+    top: 332px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 53px;
+    color: #2E376B;
+}
+
+.profile-name-small{
+    position: absolute;
+    width: 186px;
+    height: 27px;
+    left: 603px;
+    top: 387px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #2E376B;
+}
+
+.book-appointment{
+    position: absolute;
+    width: 313px;
+    height: 89px;
+    left: 296px;
+    top: 455px;
+    background: #EF5231;
+    border-radius: 30px;
+    color: white;
+}
+
+.update-profile{
+    position: absolute;
+    width: 313px;
+    height: 89px;
+    left: 782px;
+    top: 455px;
+    background: #EF5231;
+    border-radius: 30px;
+    color: white;
+}
+
+
+.second-half{
+    position: absolute;
+    width: 1440px;
+    height: 509px;
+    left: 10px;
+    top: 508px;
+    background: #2E376B;
+}
+.second-half h3{
+    width: 467px;
+    height: 46px;
+    margin-left: 480px;
+    margin-top: 120px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 38px;
+    line-height: 45px;
+    color: white;
+}
